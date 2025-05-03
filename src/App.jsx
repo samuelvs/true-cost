@@ -9,6 +9,7 @@ import "./App.css";
 // Keeping it simple, if I need to add more cities I will probably have to put it in a file or add a new API call
 const cities = {
   "New York, NY": 0.08875,
+  "New Jersey, NJ": 0.06625,
   "Los Angeles, CA": 0.095,
   "Miami, FL": 0.07,
   "Chicago, IL": 0.1025,
